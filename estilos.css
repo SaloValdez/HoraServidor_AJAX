@@ -1,0 +1,22 @@
+.contenedor{
+  background-color: 	#008B8B;
+  width: 20%;
+  margin: auto;
+  margin-top: 10%;
+  padding: 10px;
+  border-radius: 10px 10px 10px 10px;
+  display: flex;
+  justify-content: center;
+  box-shadow: black 0px 0px 10px 2px;
+
+}
+#hora{
+  font-family: sans-serif;
+  font-size: 3em;
+  text-align: center;
+  padding: 30px;
+  width: 98%;
+  background-color: #FFF8DC;
+  border-radius:10px 10px 10px 10px;
+  font-weight: bold;
+}
